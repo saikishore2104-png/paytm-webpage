@@ -11,8 +11,19 @@
     justify-content: space-between;
     width: 70%;
     list-style-type: none;   
-    
+
 }.rechargebill-cards{
   display: flex;
     justify-content: space-between;
+    
 }
+.statements{
+  display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+ .domobile{
+display: flex;
+justify-content: space-between;
+} 
