@@ -27,3 +27,52 @@
 display: flex;
 justify-content: space-between;
 } 
+.swipe{
+  display: flex;
+  height: 100px; 
+  width: auto;
+  justify-content: space-evenly;
+  border-radius: 80%;
+  margin-top: 20px;
+
+}
+.travel{
+  display: flex;
+  justify-items: flex-start;
+text-align: center;
+ margin-top: 0px;
+ margin-left: 20px;
+ height: 100px;
+width: 40px;
+padding: 20px;
+ border-radius: 20px;
+ margin-bottom: 20px;
+ font-size: 15px;
+}
+.paytmlogosecond{
+ margin-left: auto;
+ font-size: 22px;
+ font-weight: bold;
+display: flex;
+position: absolute;
+left:  950px;
+}
+.singletrip{
+  flex-direction: column;
+  gap: 20px;
+  /* border-top: 1px soild #eee;
+  padding-top: 12px;
+  justify-content: center;
+  flex-direction:row;
+  position: absolute; */
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.route1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 15px;
+}
